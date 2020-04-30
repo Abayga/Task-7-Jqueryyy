@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    //Task8
+    //!Task8
     // $('#button').on('click', function(){
     //     let math = Math.floor((Math.random() * 4));       
     //     if(math==0){
@@ -17,7 +17,7 @@ $(document).ready(function(){
 
     // })
     
-    // Task 9
+    //! Task 9
     // let inp = $('.inp')
     // let btn = $('.btn')
 
@@ -30,7 +30,7 @@ $(document).ready(function(){
 
 
 
-    //Task10
+    //!Task10
     // let kvadrat = $('.kvadrat')
     // let right = $('.right')
     // let left = $('.left')
@@ -48,20 +48,20 @@ $(document).ready(function(){
 
 
 
-    //Task11
+    //!Task11
     // $(window).mousemove(function(e){
     //     console.log(e.offsetX , e.offsetY)
     // })
 
 
-    //Task 12
+    //!Task 12
     $('#myModal').on('shown.bs.modal', function () {
         $('#myInput').focus()
       })
 
 
 
-    //Task 14
+    //!Task 14
 //     jQuery(function(){
 //     $ = $ || jQuery;
 //     var a = $(".game .item");
